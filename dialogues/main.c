@@ -1,4 +1,4 @@
-#include "./raylib.h"
+#include "raylib.h"
 #include <string.h>
 
 #define RECT_WIDTH  600
