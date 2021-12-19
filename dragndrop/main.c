@@ -51,3 +51,4 @@ void centered_text(const char *text, int y, int font_size, Color color)
     int width = MeasureText(text, font_size);
     DrawText(text, GetScreenWidth()/2 - width/2, y, font_size, BLACK);
 }
+
